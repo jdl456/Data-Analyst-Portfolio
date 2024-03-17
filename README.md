@@ -1,7 +1,7 @@
 # Data-Analyst-Portfolio
 
 ### Education
-- Data Analytics Apprentice | COOP Careers (_Feb 2024 - Present_) 
+- Data Analytics Apprentice | COOP Careers (_Feb 2024_) 
 - B.A. Computer Science | Hunter College (_May 2023_)
 
 ### Recent Projects
