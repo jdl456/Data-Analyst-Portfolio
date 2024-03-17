@@ -1,7 +1,7 @@
 # Data-Analyst-Portfolio
 
 ### Education
-- B.A., Computer Science | Hunter College (_May 2023_)
+- B.A. Computer Science | Hunter College (_May 2023_)
 
 ### Recent Projects
 Summer Olympics EDA
