@@ -35,10 +35,9 @@ model for win prediction on future NBA games, achieving 68% prediction accuracy 
 **Map Visualization of NYC Shootings**
 - Utilized Python library Folium to create an interactive map displaying shooting incidents with markers containing incident
 specific information and victim demographics, revealing hot-spots of gun violence
-Check out the interactive [NYC Shootings Map](https://github.com/jdl456/Data-Analyst-Portfolio/map.html).
+Check out the interactive [NYC Shootings Map](https://friendly-melba-dc6057.netlify.app/).
 [Github Repo](https://github.com/jdl456/NYC_Shootings)
 
 ## Technical Skills & Certifications -
 - Certifications: Google Data Analytics Professional Certificate
-- Technical Skills: Microsoft Excel, Python, R, SQL (MySQL, PostgreSQL), C++, Tableau, Jupyter Notebook, Git, Visual
-Studio Code
+- Technical Skills: Microsoft Excel, Python, R, SQL (MySQL, PostgreSQL), C++, Tableau, Jupyter Notebook, Git, Visual Studio Code
