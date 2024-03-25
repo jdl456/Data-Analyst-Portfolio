@@ -22,17 +22,17 @@ logging repair tickets for over 600+ students and faculty
 collaboration and workflow efficiency
 
 ## Recent Projects
-# Summer Olympics EDA
+**Summer Olympics EDA**
 - Utilized SQL and Tableau for an in-depth analysis of Olympic data, crafting visualizations that uncover significant trends
 and patterns in over 120 years of performance metrics such as country medal count
 [Tableau Dashboard](https://public.tableau.com/views/TheSummerOlympicsTheDataBehindTheGlobalStageofOurGreatestAthletes/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-# NBA Win Predictor
+**NBA Win Predictor**
 - Analyzed extensive NBA game data using Python Pandas to extract vital team statistics, and built a logistic regression
 model for win prediction on future NBA games, achieving 68% prediction accuracy on a test set of 2,148 games
 [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 
-# Map Visualization of NYC Shootings
+**Map Visualization of NYC Shootings**
 - Utilized Python library Folium to create an interactive map displaying shooting incidents with markers containing incident
 specific information and victim demographics, revealing hot-spots of gun violence
 [Github Repo](https://github.com/jdl456/NYC_Shootings)
