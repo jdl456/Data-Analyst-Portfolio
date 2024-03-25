@@ -39,7 +39,4 @@ specific information and victim demographics, revealing hot-spots of gun violenc
 
 ## Technical Skills & Certifications -
 - Certifications: Google Data Analytics Professional Certificate
-- Technical Skills: Microsoft Excel, Python, R, SQL (MySQL, PostgreSQL), C++, Tableau, Jupyter Notebook, Git, Visual
-Studio Code
-## 2023 NYC Shooting Incidents
-
+- Technical Skills: Microsoft Excel, Python, R, SQL (MySQL, PostgreSQL), C++, Tableau, Jupyter Notebook, Git, Visual Studio Code
