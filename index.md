@@ -35,7 +35,7 @@ model for win prediction on future NBA games, achieving 68% prediction accuracy 
 **Map Visualization of NYC Shootings**
 - Utilized Python library Folium to create an interactive map displaying shooting incidents with markers containing incident
 specific information and victim demographics, revealing hot-spots of gun violence
-<iframe src="Ithaca-map.html" height="500" width="500"></iframe>
+<iframe src="Nyc-shootings.html" width="100%" height="300" style="border:none;"></iframe>
 
 [Github Repo](https://github.com/jdl456/NYC_Shootings)
 
