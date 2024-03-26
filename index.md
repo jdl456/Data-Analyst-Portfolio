@@ -23,9 +23,11 @@ collaboration and workflow efficiency
 
 ## Recent Projects
 **Summer Olympics EDA**
+![](July-Olympics-Blog-Post-img.png)
 - Utilized SQL and Tableau for an in-depth analysis of Olympic data, crafting visualizations that uncover significant trends
 and patterns in over 120 years of performance metrics such as country medal count
-[Tableau Dashboard](https://public.tableau.com/views/TheSummerOlympicsTheDataBehindTheGlobalStageofOurGreatestAthletes/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+Explore the [Tableau Dashboard](https://public.tableau.com/views/TheSummerOlympicsTheDataBehindTheGlobalStageofOurGreatestAthletes/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Github Repo](https://github.com/jdl456/Summer-Olympics-EDA)
 
 **NBA Win Predictor**
 - Analyzed extensive NBA game data using Python Pandas to extract vital team statistics, and built a logistic regression
