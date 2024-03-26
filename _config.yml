@@ -1,5 +1,7 @@
 title: John Luzada
 logo : John_Luzada_Pic.png
-description: Hi fellow visitor. I am a recent computer science grad with a genuine desire to build a meaningful career within data. My particular interest in data stems from my childhood eagerness in understanding and exploring statistical performance metrics of high performing athletes as well as my previous experiences and education. I am eager to dive into a role that involves data analytics to drive performance towards a diverse range of company initiatives.   
-show_downloads: true
+description: Hi fellow visitor. I am a recent computer science grad with a genuine desire to build a meaningful career within data. 
+My particular interest in data stems from my childhood eagerness in understanding and exploring statistical performance metrics of high performing athletes as well as my previous experiences and education. 
+I am eager to dive into a role that involves data analytics to drive performance towards a diverse range of company initiatives.   
+#show_downloads: true
 theme: jekyll-theme-minimal
