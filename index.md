@@ -34,7 +34,7 @@ model for win prediction on future NBA games, achieving 68% prediction accuracy 
 Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 
 **Map Visualization of NYC Shootings**
-- This interactive map vividly showcases the distribution of shooting incidents across New York City in 2023, using markers to detail each event's specifics, including date, location, victim demographics, and incident setting (like public housing or commercial areas). By mapping these incidents, the visualization reveals patterns of gun violence, pinpointing neighborhoods where such events are concentrated
+- This interactive map vividly showcases the distribution of shooting incidents across New York City in 2023, using markers to detail each event's specifics, including date, location, victim demographics, and incident setting (like public housing or commercial areas).
 <iframe src="Nyc-shootings.html" width="100%" height="500" width="500"></iframe> 
 
 Explore the [Github Repo](https://github.com/jdl456/NYC_Shootings)
