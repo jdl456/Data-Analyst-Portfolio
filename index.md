@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+pl# Data-Analyst-Portfolio
 
 ## Education & Certifications
 - Data Analytics Apprentice | COOP Careers (_Feb 2024_) 
@@ -26,20 +26,18 @@ collaboration and workflow efficiency
 ![](July-Olympics-Blog-Post-img.png)
 - Utilized SQL and Tableau for an in-depth analysis of Olympic data, crafting visualizations that uncover significant trends
 and patterns in over 120 years of performance metrics such as country medal count
-Explore the [Tableau Dashboard](https://public.tableau.com/views/TheSummerOlympicsTheDataBehindTheGlobalStageofOurGreatestAthletes/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
-[Github Repo](https://github.com/jdl456/Summer-Olympics-EDA)
+Explore the [Tableau Dashboard](https://public.tableau.com/views/TheSummerOlympicsTheDataBehindTheGlobalStageofOurGreatestAthletes/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link) & [Github Repo](https://github.com/jdl456/Summer-Olympics-EDA)
 
 **NBA Win Predictor**
 - Analyzed extensive NBA game data using Python Pandas to extract vital team statistics, and built a logistic regression
 model for win prediction on future NBA games, achieving 68% prediction accuracy on a test set of 2,148 games
-[Github Repo](https://github.com/jdl456/Nba-win-predictor)
+Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 
 **Map Visualization of NYC Shootings**
-- Utilized Python library Folium to create an interactive map displaying shooting incidents with markers containing incident
-specific information and victim demographics, revealing hot-spots of gun violence
+- This interactive map vividly showcases the distribution of shooting incidents across New York City in 2023, using markers to detail each event's specifics, including date, location, victim demographics, and incident setting (like public housing or commercial areas). By mapping these incidents, the visualization reveals patterns of gun violence, pinpointing neighborhoods where such events are concentrated
 <iframe src="Nyc-shootings.html" width="100%" height="500" width="500"></iframe>
 
-[Github Repo](https://github.com/jdl456/NYC_Shootings)
+Explore the [Github Repo](https://github.com/jdl456/NYC_Shootings)
 
 ## Technical Skills & Certifications -
 - Certifications: Google Data Analytics Professional Certificate
