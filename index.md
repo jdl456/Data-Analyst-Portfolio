@@ -37,10 +37,9 @@ Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 - This interactive map vividly showcases the distribution of shooting incidents across New York City in 2023, using markers to detail each event's specifics, including date, location, victim demographics, and incident setting (like public housing or commercial areas)
 <br>
 <br>
-<img src="shootings_pivot_table_2.png" alt="shootings_pivot_table_2" width="700" height = "350"/>
-<br>
-<br>
 ![](shootings_pivot_table_2.png)
+<br>
+<br>
 Explore the [Github Repo](https://github.com/jdl456/NYC_Shootings)
 
 ## Technical Skills & Certifications 
