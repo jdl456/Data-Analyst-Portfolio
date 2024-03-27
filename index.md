@@ -33,14 +33,16 @@ Explore the [Tableau Dashboard](https://public.tableau.com/views/TheSummerOlympi
 model for win prediction on future NBA games, achieving 68% prediction accuracy on a test set of 2,148 games <br> 
 Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 
-<!-- Image with larger size and space around it -->
-<div style="margin-bottom: 20px;"> <!-- Adds space below the image -->
-    <img src="shootings_pivot_table.png" alt="Shootings Pivot Table" style="width: 100%; max-width: 800px; display: block; margin: auto; margin-bottom: 20px;"> <!-- Adjust 'max-width' to control the image size -->
-</div>
+
 
 **Map Visualization of 2023 NYC Shootings**
 
 - This interactive map vividly showcases the distribution of shooting incidents across New York City in 2023, using markers to detail each event's specifics, including date, location, victim demographics, and incident setting (like public housing or commercial areas)
+
+<!-- Image with larger size and space around it -->
+<div style="margin-bottom: 20px;"> <!-- Adds space below the image -->
+    <img src="shootings_pivot_table_2.png" alt="Shootings Pivot Table" style="width: 100%; max-width: 800px; display: block; margin: auto; margin-bottom: 20px;"> <!-- Adjust 'max-width' to control the image size -->
+</div>
 
 <div style="margin-top: 20px;"> <!-- Adds space above the map -->
     <iframe src="Nyc-shootings_1.html" style="width: 100%; height: 500px;"></iframe>
