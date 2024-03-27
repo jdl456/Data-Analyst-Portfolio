@@ -38,8 +38,6 @@ Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 <br>
 <br>
 <img src="shootings_pivot_table_2.png" height = "500"/>
-
-![](shootings_pivot_table_2.png)
 <br>
 <br>
 <iframe src="Nyc-shootings_1.html" width="100%" height="500" width="500"></iframe> 
