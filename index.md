@@ -41,7 +41,7 @@ Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 <div style="margin-bottom: 20px;"> <!-- Adds space below the image -->
     <img src="shootings_pivot_table_2.png" alt="Shootings Pivot Table" style="width: 100%; max-width: 800px; display: block; margin: auto; margin-bottom: 20px;"> <!-- Adjust 'max-width' to control the image size -->
 </div>
-
+<br>
 <div style="margin-top: 20px;"> <!-- Adds space above the map -->
     <iframe src="Nyc-shootings_1.html" style="width: 100%; height: 500px;"></iframe>
 </div>
