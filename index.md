@@ -1,6 +1,6 @@
 ## Data-Analyst-Portfolio
 
-## Education & Certifications
+## Education
 - Data Analytics Apprentice | COOP Careers (_Feb 2024_) 
 - B.A. Computer Science | Hunter College (_May 2023_)
 
