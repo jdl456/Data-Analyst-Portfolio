@@ -32,7 +32,7 @@ Explore the [Tableau Dashboard](https://public.tableau.com/views/TheSummerOlympi
 - Analyzed extensive NBA game data using Python Pandas to extract vital team statistics, and built a logistic regression
 model for win prediction on future NBA games, achieving 68% prediction accuracy on a test set of 2,148 games
 <br>
-<img src="nba_tov_data.png"/>
+<img src="nba_tov_data_1.png"/>
 <br>
 Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 
