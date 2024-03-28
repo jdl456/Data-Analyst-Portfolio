@@ -41,7 +41,6 @@ Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 <br>
 <br>
 <iframe src="Nyc-shootings_1.html" width="100%" height="500" width="500"></iframe> 
-<br>
 Explore the [Github Repo](https://github.com/jdl456/NYC_Shootings)
 
 ## Technical Skills & Certifications 
