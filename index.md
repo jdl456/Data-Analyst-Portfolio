@@ -30,7 +30,10 @@ Explore the [Tableau Dashboard](https://public.tableau.com/views/TheSummerOlympi
 
 **NBA Win Predictor**
 - Analyzed extensive NBA game data using Python Pandas to extract vital team statistics, and built a logistic regression
-model for win prediction on future NBA games, achieving 68% prediction accuracy on a test set of 2,148 games <br> 
+model for win prediction on future NBA games, achieving 68% prediction accuracy on a test set of 2,148 games
+<br>
+<img src="nba_data_chart.png"/>
+<br>
 Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 
 **Map Visualization of 2023 NYC Shootings**
