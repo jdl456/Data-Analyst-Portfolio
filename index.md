@@ -39,7 +39,7 @@ model for win prediction on future NBA games, achieving 68% prediction accuracy 
 <img src = "nba_fg_pct_data_1.png"/>
 <br>
 <br>
-<iframe src="nba_teams_efficiency_plot.html"></iframe> 
+
 <br>
 <br>
 Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
