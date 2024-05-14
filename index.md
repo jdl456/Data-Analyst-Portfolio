@@ -23,7 +23,8 @@ collaboration and workflow efficiency
 
 ## Recent Projects
 **NYC Road Accidents Q1 2024 Dashboard**
-<iframe src="https://docs.google.com/presentation/d/1UIsrYjluJ_0bJwkGYeZwfpZUUjypkgyPqlzs-UlVPcE/edit#slide=id.g2313adbc26a_5_136/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="Motor Accident Presentation.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br>
 **Summer Olympics EDA**
 ![](July-Olympics-Blog-Post-img.png)
 - Utilized SQL and Tableau for an in-depth analysis of Olympic data, crafting visualizations that uncover significant trends
