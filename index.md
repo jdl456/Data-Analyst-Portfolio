@@ -23,9 +23,11 @@ collaboration and workflow efficiency
 
 ## Recent Projects
 **NYC Road Accidents Q1 2024 Dashboard**
-<iframe src="Motor Accident Presentation.pdf" width=960 height=569></iframe>
+<iframe src="Motor Accident Presentation.pdf" width = "100%" height = "100%" width = 900 height = 700></iframe>
+<br>
 <br>
 Explore the [Tableau Dashboard](https://public.tableau.com/app/profile/john.luzada/viz/NYCRoadAccidentsQ12024/Dashboard2)
+<br>
 <br>
 **Summer Olympics EDA**
 ![](July-Olympics-Blog-Post-img.png)
