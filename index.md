@@ -28,10 +28,12 @@ collaboration and workflow efficiency
 Explore the [Tableau Dashboard](https://public.tableau.com/app/profile/john.luzada/viz/NYCRoadAccidentsQ12024/Dashboard2)
 <br>
 <br>
+
 **Summer Olympics EDA**
 ![](July-Olympics-Blog-Post-img.png)
 - Utilized SQL and Tableau for an in-depth analysis of Olympic data, crafting visualizations that uncover significant trends
-and patterns in over 120 years of performance metrics such as country medal count <br>
+and patterns in over 120 years of performance metrics such as country medal count
+<br>
 Explore the [Tableau Dashboard](https://public.tableau.com/views/TheSummerOlympicsTheDataBehindTheGlobalStageofOurGreatestAthletes/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link) & [Github Repo](https://github.com/jdl456/Summer-Olympics-EDA)
 
 **NBA Win Predictor**
