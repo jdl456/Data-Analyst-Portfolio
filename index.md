@@ -22,7 +22,7 @@ logging repair tickets for over 600+ students and faculty
 collaboration and workflow efficiency
 
 ## Recent Projects
-**NYC Road Accidents Q1 2024 Dashboard**
+**NYC Road Accidents Q1 2024 Case Study**
 <iframe src="Motor Accident Presentation.pdf" width = "100%" height = "100%" width = 900 height = 700></iframe>
 <br>
 <br>
