@@ -1,4 +1,4 @@
-## Data-Analyst-Portfolio
+## Data Analyst Portfolio
 
 ## Education
 - Data Analytics Apprentice | COOP Careers (_Feb 2024_) 
