@@ -23,7 +23,7 @@ collaboration and workflow efficiency
 
 ## Recent Projects
 **NYC Road Accidents Q1 2024 Dashboard**
-<iframe src="Motor Accident Presentation.pdf" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="Motor Accident Presentation.pdf" width="960" height="569"></iframe>
 <br>
 **Summer Olympics EDA**
 ![](July-Olympics-Blog-Post-img.png)
