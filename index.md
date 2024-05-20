@@ -1,10 +1,10 @@
 
 
-### Data Analyst Portfolio
+## Data Analyst Portfolio
 
 **Introduction**
 <br>
-Hi, I'm John Luzada, a dedicated Data Analyst with a strong background in computer science and practical experience in data science and IT. I specialize in data visualization, model implementation, and GIS data management.
+Hi, I'm John Luzada, a dedicated Data Analyst with a strong background in computer science and practical experience in data science and IT. I specialize in data visualization, model implementation, and GIS data management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-luzada/)
 
