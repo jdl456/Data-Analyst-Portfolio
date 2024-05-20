@@ -1,4 +1,12 @@
-## Data Analyst Portfolio
+![Profile Image](profile-image.png)
+
+## John Luzada
+### Data Analyst Portfolio
+
+**Introduction**
+Hi, I'm John Luzada, a dedicated Data Analyst with a strong background in computer science and practical experience in data science and IT. I specialize in data visualization, model implementation, and GIS data management.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-luzada/)
 
 ## Education
 - Data Analytics Apprentice | COOP Careers (_Feb 2024_) 
@@ -23,7 +31,7 @@ collaboration and workflow efficiency
 
 ## Recent Projects
 **NYC Road Accidents Q1 2024 Case Study**
-<iframe src="Motor Accident Presentation.pdf" width = "100%" height = "100%" width = 900 height = 700></iframe>
+<iframe src="Motor Accident Presentation.pdf" width="100%" height="100%" width="900" height="700"></iframe>
 <br>
 Explore the [Tableau Dashboard](https://public.tableau.com/app/profile/john.luzada/viz/NYCRoadAccidentsQ12024/Dashboard2)
 <br>
@@ -44,10 +52,10 @@ model for win prediction on future NBA games, achieving 68% prediction accuracy 
 <img src="nba_tov_data_1.png"/>
 <br>
 <br>
-<img src = "nba_fg_pct_data_1.png"/>
+<img src="nba_fg_pct_data_1.png"/>
 <br>
 <br>
-<iframe src="nba_teams_efficiency_plot.html" width = "100%" height = "100%" width = 700 height = 600 ></iframe> 
+<iframe src="nba_teams_efficiency_plot.html" width="100%" height="100%" width="700" height="600"></iframe> 
 <br>
 <br>
 Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
@@ -57,7 +65,7 @@ Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 - This interactive map vividly showcases the distribution of shooting incidents across New York City in 2023, using markers to detail each event's specifics, including date, location, victim demographics, and incident setting (like public housing or commercial areas)
 <br>
 <br>
-<img src="shootings_pivot_table_2.png.png" height = "250"/>
+<img src="shootings_pivot_table_2.png.png" height="250"/>
 <br>
 <br>
 <iframe src="Nyc-shootings_1.html" width="100%" height="500" width="500"></iframe> 
