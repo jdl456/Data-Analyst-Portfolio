@@ -1,4 +1,4 @@
-![Profile Image](John_Luzada_Pic.png)
+
 
 ## John Luzada
 ### Data Analyst Portfolio
