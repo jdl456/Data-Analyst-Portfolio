@@ -1,33 +1,10 @@
 
 
 ## Data Analyst Portfolio
-
-**Introduction**
 <br>
-Hi, I'm John Luzada, a dedicated Data Analyst with a strong background in computer science and practical experience in data science and IT. I specialize in data visualization, model implementation, and GIS data management
+Hi fellow visitor. I'm John Luzada, an aspiring data analyst obsessed with stats and finding the right insights in data to inspire meaningful action. I have a strong foundation in using tools such as Excel and Tableau to preprocess and explore datasets to tell an insightful, data-driven story. I am team-oriented, genuinely eager to learn more, and aim to surround myself with ambitious and passionate individuals who have an authentic desire to contribute at our highest level to a company's mission.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-luzada/)
-
-## Education
-- Data Analytics Apprentice | COOP Careers (_Feb 2024_) 
-- B.A. Computer Science | Hunter College (_May 2023_)
-
-## Work Experience
-**Data Science Intern @ NYC Department of Transportation (_Aug 2022 - Dec 2022_)**
-- Designed and implemented a YOLOv5-based pavement marking detection model using a dataset of 500+ images, enabling
-city maintenance crews to precisely gauge the quantity and condition of markings in key areas
-- Visualized and presented model performance metrics using Python’s Matplotlib to simplify complex data for non-technical
-supervisors, ensuring informed decision making
-- Input and managed under deck lighting data using Cyclomedia GIS, ensuring accurate identification of areas in need of
-maintenance, improving lighting across 700+ bridges and tunnels
-
-**IT Intern @ NYC Department of Education (_Feb 2022 - June 2022_)**
-- Designed and implemented an inventory system using Microsoft Excel for hundreds of devices such as laptops and printers
-for students and staff streamlining school device management
-- Collaborated effectively with a team to maintain daily functionality, addressing software and hardware challenges and
-logging repair tickets for over 600+ students and faculty
-- Managed IT administrative tasks, efficiently handling email communications and coordinating meetings, enhancing team
-collaboration and workflow efficiency
 
 ## Recent Projects
 **NYC Road Accidents Q1 2024 Case Study**
@@ -70,6 +47,27 @@ Explore the [Github Repo](https://github.com/jdl456/Nba-win-predictor)
 <br>
 <iframe src="Nyc-shootings_1.html" width="100%" height="500" width="500"></iframe> 
 Explore the [Github Repo](https://github.com/jdl456/NYC_Shootings)
+
+## Education
+- Data Analytics Apprentice | COOP Careers (_Feb 2024_) 
+- B.A. Computer Science | Hunter College (_May 2023_)
+
+## Work Experience
+**Data Science Intern @ NYC Department of Transportation (_Aug 2022 - Dec 2022_)**
+- Designed and implemented a YOLOv5-based pavement marking detection model using a dataset of 500+ images, enabling
+city maintenance crews to precisely gauge the quantity and condition of markings in key areas
+- Visualized and presented model performance metrics using Python’s Matplotlib to simplify complex data for non-technical
+supervisors, ensuring informed decision making
+- Input and managed under deck lighting data using Cyclomedia GIS, ensuring accurate identification of areas in need of
+maintenance, improving lighting across 700+ bridges and tunnels
+
+**IT Intern @ NYC Department of Education (_Feb 2022 - June 2022_)**
+- Designed and implemented an inventory system using Microsoft Excel for hundreds of devices such as laptops and printers
+for students and staff streamlining school device management
+- Collaborated effectively with a team to maintain daily functionality, addressing software and hardware challenges and
+logging repair tickets for over 600+ students and faculty
+- Managed IT administrative tasks, efficiently handling email communications and coordinating meetings, enhancing team
+collaboration and workflow efficiency
 
 ## Technical Skills & Certifications 
 - Certifications: Google Data Analytics Professional Certificate
