@@ -1,7 +1,8 @@
 
 
 ## Data Analyst Portfolio
-Hi fellow visitor. I'm John Luzada, an aspiring data analyst obsessed with stats and finding the right insights in data to inspire meaningful action. I have a strong foundation in using tools such as Excel and Tableau to preprocess and explore datasets to tell an insightful, data-driven story. I am team-oriented, genuinely eager to learn more, and aim to surround myself with ambitious and passionate individuals who have an authentic desire to contribute at our highest level to a company's mission.
+
+Welcome to my data-driven world! I'm John Luzada, a passionate data analyst transforming raw data into compelling insights with tools like Excel and Tableau. As an avid sports fan, my love for performance stats fuels my dedication to uncovering hidden stories and driving meaningful actions. let's connect and make data work for you!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-luzada/)
 
